@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	첫 페 이 지 입 니 닷.
+	firstPage
 </body>
 </html>
